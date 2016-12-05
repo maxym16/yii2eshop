@@ -3,7 +3,7 @@
 Dear friends !
 Here is an example of Yii2 Framework for the development of e-Commerce application.
 You can see a demo store at : http://e-shopper.000webhostapp.com .
-Thanks for assistance in developing this Framework Andrew Kudlay.
+Thanks for assistance in developing this application Andrew Kudlay.
 
 
 
