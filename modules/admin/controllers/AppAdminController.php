@@ -2,7 +2,7 @@
 
 namespace app\modules\admin\controllers;
 use yii\web\Controller;
-use yii\filters\AccessControl;
+//use yii\filters\AccessControl;
 
 /**
  * Description of AppAdminController
@@ -10,7 +10,7 @@ use yii\filters\AccessControl;
  * @author Maxym
  */
 class AppAdminController extends Controller{
-    public function behaviors(){
+/*    public function behaviors(){
         return [
             'access' => [
                 'class' => AccessControl::className(),
@@ -23,4 +23,5 @@ class AppAdminController extends Controller{
             ],
         ];
     }
+*/
 }
